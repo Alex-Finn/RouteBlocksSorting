@@ -2,7 +2,10 @@
 
 namespace SortingBlocks
 {
-	public class Class1
+	public class RouteBlock
 	{
+		public string Input{get;set;}
+		public string Output{get;set;}
+
 	}
 }
